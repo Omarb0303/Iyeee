@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MemeCoin - Coming Soon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .coin-image {
+            width: 150px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .coming-soon {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .party-text {
+            font-size: 16px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://img.hotimg.com/sketch1708468284325.png" alt="MemeCoin" class="coin-image">
+        <div class="coming-soon">COMING SOON</div>
+        <div class="party-text">You're next door to enter the crypto millionaires party — $Epo</div>
+    </div>
+</body>
+</html>
